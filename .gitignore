@@ -1,0 +1,26 @@
+# Build output
+scheduler
+scheduler.exe
+scheduler_tests
+scheduler_tests.exe
+build/
+cmake-build-*/
+
+# Object / binary files
+*.o
+*.obj
+*.out
+*.exe
+
+# IDE / editor
+.vscode/
+.idea/
+.vs/
+*.user
+*.suo
+*.swp
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
